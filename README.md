@@ -1,7 +1,7 @@
 
 # Lottery Predictor
 
-This project is a machine learning model designed to predict the most likely set of lottery numbers for the next drawing based on previous winning numbers.
+This project is a machine learning model designed to predict the most likely set of lottery numbers 6/45 for the next drawing based on previous winning numbers.
 
 ## Getting Started
 
