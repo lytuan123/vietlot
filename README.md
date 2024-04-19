@@ -8,13 +8,16 @@ This project is a machine learning model designed to predict the most likely set
 To use this model, you will need to have Python installed on your computer, as well as the following libraries:
 
 -   pandas
--   scikit-learn
+-   sklearn
+-   numpy
+-   tensorflow
+-   openpyxl
 
 To install the libraries, run the following command:
 
 Copy code
 
-`pip install pandas scikit-learn` 
+`pip install numpy pandas tensorflow sklearn openpyxl` 
 
 ## Usage
 
